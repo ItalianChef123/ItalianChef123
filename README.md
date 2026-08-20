@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Ollie-Thornton@hotmail.com
+- 📫 How to reach me italianchef123@hotmail.com
 
 <!---
 ItalianChef123/ItalianChef123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
